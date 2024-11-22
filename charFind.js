@@ -10,7 +10,7 @@ let lowerChar=0;
 let specialChar=0
 let digits=0;
 
-let values="Sur@jKum@r19))";
+let values="Sur@jKum@r19))"
 
 
 function toSpacialCase(str) {
