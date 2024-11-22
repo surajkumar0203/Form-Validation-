@@ -20,7 +20,7 @@ function toSpacialCase(str) {
 
   for(let va of values){
     if(parseInt(va)){
-        digits++;
+        digits++
     }
     else if(toSpacialCase(va)){
         specialChar++;
