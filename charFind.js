@@ -34,7 +34,7 @@ function toSpacialCase(str) {
     
 }
 
-console.log(`upperChar ${upperChar}`)
-console.log(`lowerChar ${lowerChar}`)
-console.log(`specialChar ${specialChar}`)
-console.log(`digits ${digits}`)
+console.log(`upperChar ${upperChar}`);
+console.log(`lowerChar ${lowerChar}`);
+console.log(`specialChar ${specialChar}`);
+console.log(`digits ${digits}`);
